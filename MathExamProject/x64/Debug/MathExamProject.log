@@ -1,0 +1,4 @@
+﻿  MathExamProject.cpp
+H:\Programmin g course\c++ projects\MathExamProject\MathExamProject\MathExamProject.cpp(112): warning C4715: 'CheckAnswer': not all control paths return a value
+H:\Programmin g course\c++ projects\MathExamProject\MathExamProject\MathExamProject.cpp(102): warning C4715: 'ValidatePostiveNumberBetweenTwoNumbers': not all control paths return a value
+  MathExamProject.vcxproj -> H:\Programmin g course\c++ projects\MathExamProject\x64\Debug\MathExamProject.exe
